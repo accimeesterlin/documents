@@ -23,4 +23,4 @@
     Staging
     
 */
-var test = 'Hello World!';
+var test = 'Hello World';
