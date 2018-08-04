@@ -13,6 +13,11 @@
     Github
     Bitbucket
 
+    Repo = Folder
+
+
+    git remote add esterlin https://github.com/accimeesterlin/documents.git
+
     
 
     Staging
