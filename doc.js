@@ -23,3 +23,4 @@
     Staging
     
 */
+var test = 'Hello World';
